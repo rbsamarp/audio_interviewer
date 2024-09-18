@@ -1,0 +1,10 @@
+streamlit==1.25.0  # Latest version (check for updates if needed)
+openai==0.27.0  # Or whichever version you're using
+streamlit-bokeh-events==0.1.2
+streamlit-chat==0.0.2  # If you're using a custom chat component for Streamlit
+pyttsx3==2.90  # For text-to-speech functionality
+python-dotenv==1.0.0  # For loading environment variables from .env
+bokeh==3.1.1  # For Bokeh integration
+altair==4.2.2  # Ensure the latest compatible version
+vega-datasets==0.9.0  # (Optional) for Altair datasets
+dotenv==0.0.5  # For loading environment variables from .env

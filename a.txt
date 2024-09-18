@@ -1,0 +1,152 @@
+app.py:32:80: E501 line too long (95 > 79 characters)
+app.py:34:80: E501 line too long (89 > 79 characters)
+app.py:44:1: E302 expected 2 blank lines, found 1
+app.py:54:1: E302 expected 2 blank lines, found 1
+app.py:58:9: F821 undefined name 'cursor'
+app.py:68:9: F821 undefined name 'cursor'
+app.py:78:9: F821 undefined name 'cursor'
+app.py:89:9: F821 undefined name 'cursor'
+app.py:105:9: F821 undefined name 'cursor'
+app.py:121:9: F821 undefined name 'cursor'
+app.py:132:9: F821 undefined name 'cursor'
+app.py:146:9: F821 undefined name 'cursor'
+app.py:147:12: F821 undefined name 'cursor'
+app.py:150:9: F821 undefined name 'conn'
+app.py:154:1: E302 expected 2 blank lines, found 1
+app.py:158:80: E501 line too long (90 > 79 characters)
+app.py:212:9: F821 undefined name 'cursor'
+app.py:213:80: E501 line too long (129 > 79 characters)
+app.py:214:80: E501 line too long (115 > 79 characters)
+app.py:215:5: F821 undefined name 'conn'
+app.py:218:1: E302 expected 2 blank lines, found 1
+app.py:234:1: E302 expected 2 blank lines, found 1
+app.py:243:80: E501 line too long (96 > 79 characters)
+app.py:260:1: E302 expected 2 blank lines, found 1
+app.py:265:1: E302 expected 2 blank lines, found 1
+app.py:268:5: F821 undefined name 'cursor'
+app.py:271:14: F821 undefined name 'cursor'
+app.py:274:80: E501 line too long (81 > 79 characters)
+app.py:275:9: F821 undefined name 'cursor'
+app.py:283:13: F821 undefined name 'cursor'
+app.py:288:1: E302 expected 2 blank lines, found 1
+app.py:291:5: F821 undefined name 'cursor'
+app.py:294:5: F821 undefined name 'conn'
+app.py:295:12: F821 undefined name 'cursor'
+app.py:297:1: E302 expected 2 blank lines, found 1
+app.py:299:5: F821 undefined name 'cursor'
+app.py:300:80: E501 line too long (99 > 79 characters)
+app.py:302:5: F821 undefined name 'conn'
+app.py:304:1: E302 expected 2 blank lines, found 1
+app.py:307:80: E501 line too long (88 > 79 characters)
+app.py:316:80: E501 line too long (80 > 79 characters)
+app.py:325:80: E501 line too long (91 > 79 characters)
+app.py:335:80: E501 line too long (90 > 79 characters)
+app.py:347:1: E302 expected 2 blank lines, found 1
+app.py:349:80: E501 line too long (87 > 79 characters)
+app.py:353:1: E302 expected 2 blank lines, found 1
+app.py:361:9: F821 undefined name 'cursor'
+app.py:361:80: E501 line too long (90 > 79 characters)
+app.py:362:16: F821 undefined name 'cursor'
+app.py:370:1: E302 expected 2 blank lines, found 1
+app.py:378:9: F821 undefined name 'cursor'
+app.py:381:21: F821 undefined name 'cursor'
+app.py:389:1: E302 expected 2 blank lines, found 1
+app.py:399:1: E302 expected 2 blank lines, found 1
+app.py:400:80: E501 line too long (84 > 79 characters)
+app.py:403:80: E501 line too long (143 > 79 characters)
+app.py:411:80: E501 line too long (118 > 79 characters)
+app.py:413:9: F821 undefined name 'cursor'
+app.py:414:15: F821 undefined name 'cursor'
+app.py:416:80: E501 line too long (113 > 79 characters)
+app.py:418:9: F821 undefined name 'cursor'
+app.py:419:22: F821 undefined name 'cursor'
+app.py:420:80: E501 line too long (86 > 79 characters)
+app.py:421:80: E501 line too long (102 > 79 characters)
+app.py:424:80: E501 line too long (126 > 79 characters)
+app.py:432:80: E501 line too long (97 > 79 characters)
+app.py:433:80: E501 line too long (95 > 79 characters)
+app.py:441:80: E501 line too long (95 > 79 characters)
+app.py:444:21: F821 undefined name 'cursor'
+app.py:445:80: E501 line too long (143 > 79 characters)
+app.py:446:80: E501 line too long (118 > 79 characters)
+app.py:447:21: F821 undefined name 'conn'
+app.py:450:80: E501 line too long (180 > 79 characters)
+app.py:452:80: E501 line too long (109 > 79 characters)
+app.py:459:9: F821 undefined name 'cursor'
+app.py:462:22: F821 undefined name 'cursor'
+app.py:477:80: E501 line too long (86 > 79 characters)
+app.py:495:80: E501 line too long (87 > 79 characters)
+app.py:504:17: F821 undefined name 'cursor'
+app.py:505:80: E501 line too long (94 > 79 characters)
+app.py:506:80: E501 line too long (80 > 79 characters)
+app.py:507:17: F821 undefined name 'conn'
+app.py:513:9: F821 undefined name 'cursor'
+app.py:514:15: F821 undefined name 'cursor'
+app.py:518:17: F821 undefined name 'cursor'
+app.py:518:80: E501 line too long (100 > 79 characters)
+app.py:519:30: F821 undefined name 'cursor'
+app.py:523:80: E501 line too long (145 > 79 characters)
+app.py:535:80: E501 line too long (81 > 79 characters)
+app.py:536:80: E501 line too long (93 > 79 characters)
+app.py:554:80: E501 line too long (94 > 79 characters)
+app.py:563:17: F821 undefined name 'cursor'
+app.py:564:80: E501 line too long (100 > 79 characters)
+app.py:566:17: F821 undefined name 'conn'
+app.py:572:9: F821 undefined name 'cursor'
+app.py:573:22: F821 undefined name 'cursor'
+app.py:577:17: F821 undefined name 'cursor'
+app.py:577:80: E501 line too long (107 > 79 characters)
+app.py:578:30: F821 undefined name 'cursor'
+app.py:582:80: E501 line too long (152 > 79 characters)
+app.py:591:9: F821 undefined name 'cursor'
+app.py:592:80: E501 line too long (143 > 79 characters)
+app.py:592:144: W291 trailing whitespace
+app.py:598:22: F821 undefined name 'cursor'
+app.py:600:80: E501 line too long (111 > 79 characters)
+app.py:607:80: E501 line too long (88 > 79 characters)
+app.py:608:13: F821 undefined name 'cursor'
+app.py:609:80: E501 line too long (120 > 79 characters)
+app.py:613:25: F821 undefined name 'cursor'
+app.py:633:9: F821 undefined name 'cursor'
+app.py:634:15: F821 undefined name 'cursor'
+app.py:636:80: E501 line too long (103 > 79 characters)
+app.py:638:9: F821 undefined name 'cursor'
+app.py:639:22: F821 undefined name 'cursor'
+app.py:640:80: E501 line too long (86 > 79 characters)
+app.py:641:80: E501 line too long (92 > 79 characters)
+app.py:645:80: E501 line too long (99 > 79 characters)
+app.py:646:80: E501 line too long (98 > 79 characters)
+app.py:649:80: E501 line too long (115 > 79 characters)
+app.py:657:80: E501 line too long (86 > 79 characters)
+app.py:665:80: E501 line too long (91 > 79 characters)
+app.py:670:80: E501 line too long (105 > 79 characters)
+app.py:680:17: F821 undefined name 'cursor'
+app.py:681:80: E501 line too long (137 > 79 characters)
+app.py:682:80: E501 line too long (112 > 79 characters)
+app.py:683:17: F821 undefined name 'conn'
+app.py:689:1: E302 expected 2 blank lines, found 1
+app.py:699:13: F821 undefined name 'cursor'
+app.py:700:80: E501 line too long (92 > 79 characters)
+app.py:702:25: F821 undefined name 'cursor'
+app.py:717:13: F821 undefined name 'cursor'
+app.py:717:80: E501 line too long (92 > 79 characters)
+app.py:718:26: F821 undefined name 'cursor'
+app.py:724:80: E501 line too long (107 > 79 characters)
+app.py:728:80: E501 line too long (91 > 79 characters)
+app.py:735:80: E501 line too long (80 > 79 characters)
+app.py:736:80: E501 line too long (103 > 79 characters)
+app.py:742:80: E501 line too long (85 > 79 characters)
+app.py:746:80: E501 line too long (80 > 79 characters)
+app.py:756:80: E501 line too long (86 > 79 characters)
+app.py:758:80: E501 line too long (82 > 79 characters)
+app.py:759:80: E501 line too long (89 > 79 characters)
+app.py:763:80: E501 line too long (81 > 79 characters)
+app.py:765:13: F821 undefined name 'cursor'
+app.py:768:13: F821 undefined name 'conn'
+app.py:773:1: E302 expected 2 blank lines, found 1
+app.py:790:80: E501 line too long (112 > 79 characters)
+app.py:808:80: E501 line too long (87 > 79 characters)
+app.py:810:21: F821 undefined name 'cursor'
+app.py:810:80: E501 line too long (129 > 79 characters)
+app.py:811:21: F821 undefined name 'conn'
+app.py:832:1: E305 expected 2 blank lines after class or function definition, found 1
